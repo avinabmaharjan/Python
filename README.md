@@ -123,7 +123,7 @@ NeuroShield Eye is built on a **modular OOP architecture** where each feature is
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/NeuroShield-Eye.git
+git clone https://github.com/avinabmaharjan/NeuroShield-Eye.git
 cd NeuroShield-Eye
 
 # 2. Create a virtual environment (recommended)
